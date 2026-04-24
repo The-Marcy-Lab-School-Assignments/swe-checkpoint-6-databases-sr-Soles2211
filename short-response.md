@@ -21,8 +21,6 @@ Why should passwords **never** be stored as plaintext in a database? Explain wha
 
 **Your answer:**
 
-**Passwords should never be stored as plaintext in a database because it makes it easy for attackers to grab data.**
-
 * * *
 
 Question 3
